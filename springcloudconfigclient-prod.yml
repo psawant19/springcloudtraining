@@ -1,5 +1,5 @@
 test:
-  message: PS
+  message: PRA
   
 server:
   port: 3344
